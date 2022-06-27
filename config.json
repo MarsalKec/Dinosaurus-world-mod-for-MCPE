@@ -1,0 +1,146 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Raptors Add-on (B)",
+        "role": "The raptors can be used for everything from riding to just keep as companions to help protect you against all kinds of dangers. You can also use them to store your blocks and items which can come handy if you like to go on great adventures. If you are fascinated by dinosaurs or just love the idea of owning a raptor then this is a must-have add-on for you!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/6.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/Raptors Behavior Pack.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/5.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/4.jpg"
+    },
+    {
+        "name": "Raptors Add-on (R)",
+        "role": "The raptors can be used for everything from riding to just keep as companions to help protect you against all kinds of dangers. You can also use them to store your blocks and items which can come handy if you like to go on great adventures. If you are fascinated by dinosaurs or just love the idea of owning a raptor then this is a must-have add-on for you!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/Raptors Resource Pack.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/3.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/2.jpg"
+    },
+    {
+        "name": "StealthCraft Staff Skin Pack",
+        "role": "The StealthCraft Staff Skin Pack is a Skin Pack which contains the skins of Staff Members from the StealthCraft Studios Community. We hope you enjoy these skins in whichever way you please and on behalf of the StealthCraft Studios Staff Team I would like to say thanks for an amazing year and a half of our community, these skins can be used for any occasion but mainly to have fun!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/StealthCraft_Staff_Skin_Pack_V2.0.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/1.png"
+    },
+    {
+        "name": "Indominus Rex Addon (B)",
+        "role": "This is a dinosaur addon which adds the Indominus Rex which was the main antagonist in the latest Jurassic World movie. The genetically modified dinosaur was the cause of some serious chaos and so it will be in Minecraft if you decide to spawn it. This is a boss addon which is compatible with the T-Rex and Raptor addons.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/2.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/Indominus Rex Behavior Pack.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg"
+    },
+    {
+        "name": "Indominus Rex Addon (R)",
+        "role": "This is a dinosaur addon which adds the Indominus Rex which was the main antagonist in the latest Jurassic World movie. The genetically modified dinosaur was the cause of some serious chaos and so it will be in Minecraft if you decide to spawn it. This is a boss addon which is compatible with the T-Rex and Raptor addons.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/Indominus Rex Resource Pack.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ceYiHWIDPizVGi9E19oW63xW55obx9R5QbJ7SWZDjSJ1CA7n3hGpoMYhDVwLGGgcYX2omOuMFaEGdQGi4hHTOD8",
+    "view_skin": "https://lh3.googleusercontent.com/sVcq3LeSm2BPWB6W3ea1WPJKpH-3QXKDJjvmxHLgCAljp5btl6mpFQqEtVKsxx6u279uzf7ddTTktPkzEOF4e_8"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/XkBOZvYJ2kqZSWfhmvaIp8Ktmtl8aoW2cf1Btehchhcdx8w9m22iJUHpROkNwBfY7xGn_-rrcUgcS5mvBWrj5A",
+    "view_skin": "https://lh3.googleusercontent.com/yN4sV1MiEon2sUG7daeSqEXnk9UFqT4glquzQ3yuihqxzc2ddlh85Cl_EP-j9Wyt78ILCiekWwKlI9u92wMEmwGWxHlk-VseqgM"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/4-1eRAqUtIdF5hIU9clRxZdWUYft7NiQgKW3OJlGnGKclz4WGY1It-sNS33x7C4ChDhpTDrDyVIZ_VOcH5DW",
+    "view_skin": "https://lh3.googleusercontent.com/qePF64rUtVPt67UlzHi8-FC41MeO_DAu4nD4dSuM3HGjQaUgtGIsfoALg9XUJCyCp6r8ANB16DFBI75neHD8APherLAB6U3ssqE"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/jryXDvgYP55YzmuGaaSa8ucclGZNa0VbsILEA3SLMl_JbqBhUQmt_JFVpBrTff4j2jizHdmspEsCWBQjrBu2FRuBaJHL4yFfCxoP",
+    "view_skin": "https://lh3.googleusercontent.com/x7bAY4uQwDjxo5Up7QMnzd8sMfSl12qwC-ZMKZlxt6djT9A1hdxvefuhEKRiABNbLBxsUzSRC1Oh8YXTzdUXcRifUJnQW_BzJmc"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/xktgRWtsl1IceDj8x1E2Oy9-ipzRzIPfH8SMeg0kdVHgomJpZQikYW9MqCo9nAn3p61Pzf7KUEBo4yt_6sp6zf4eOV5VAB8sxVY",
+    "view_skin": "https://lh3.googleusercontent.com/_a0Pgu8y-vtPO9Ky3t_aDc5VBzxfC1zaQDaPKv7PJdDj_t8Dj_eUa6fg3vBwfQJq_NCOubX0qyZvlp6pWHOZslM8XeYQYoBZ_h4"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
