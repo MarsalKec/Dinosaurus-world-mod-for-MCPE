@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,44 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Raptors Add-on (B)",
-        "role": "The raptors can be used for everything from riding to just keep as companions to help protect you against all kinds of dangers. You can also use them to store your blocks and items which can come handy if you like to go on great adventures. If you are fascinated by dinosaurs or just love the idea of owning a raptor then this is a must-have add-on for you!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/6.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/Raptors Behavior Pack.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/5.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/4.jpg"
-    },
-    {
-        "name": "Raptors Add-on (R)",
-        "role": "The raptors can be used for everything from riding to just keep as companions to help protect you against all kinds of dangers. You can also use them to store your blocks and items which can come handy if you like to go on great adventures. If you are fascinated by dinosaurs or just love the idea of owning a raptor then this is a must-have add-on for you!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/3.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/Raptors Resource Pack.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/3.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/14/2.jpg"
-    },
-    {
-        "name": "StealthCraft Staff Skin Pack",
-        "role": "The StealthCraft Staff Skin Pack is a Skin Pack which contains the skins of Staff Members from the StealthCraft Studios Community. We hope you enjoy these skins in whichever way you please and on behalf of the StealthCraft Studios Staff Team I would like to say thanks for an amazing year and a half of our community, these skins can be used for any occasion but mainly to have fun!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/StealthCraft_Staff_Skin_Pack_V2.0.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/15/1.png"
-    },
-    {
-        "name": "Indominus Rex Addon (B)",
-        "role": "This is a dinosaur addon which adds the Indominus Rex which was the main antagonist in the latest Jurassic World movie. The genetically modified dinosaur was the cause of some serious chaos and so it will be in Minecraft if you decide to spawn it. This is a boss addon which is compatible with the T-Rex and Raptor addons.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/2.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/Indominus Rex Behavior Pack.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg"
-    },
-    {
-        "name": "Indominus Rex Addon (R)",
-        "role": "This is a dinosaur addon which adds the Indominus Rex which was the main antagonist in the latest Jurassic World movie. The genetically modified dinosaur was the cause of some serious chaos and so it will be in Minecraft if you decide to spawn it. This is a boss addon which is compatible with the T-Rex and Raptor addons.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/Indominus Rex Resource Pack.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Jurassic/16/1.jpg"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
